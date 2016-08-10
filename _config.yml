@@ -1,0 +1,14 @@
+layout_spectrum: 0.9395278673619032
+typography_spectrum: 0.6202440180350095
+color:
+  brandStrength: 0.17229577130638063
+  lightness: 0.5050210366025567
+  saturation: 0.5605580671690404
+  rhythmicContrast: 0.7990940022282302
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: PHP Developer Land
